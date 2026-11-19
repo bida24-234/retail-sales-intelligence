@@ -1,11 +1,6 @@
 # Retail Sales Intelligence
 An end-to-end Business Intelligence project analysing retail sales performance, product profitability and commercial trends using Python and Power BI.
 =======
-
-# Retail Sales Intelligence
-
-### An End-to-End Business Intelligence and Commercial Performance Analysis Project
-
 ## Project Overview
 
 Retail Sales Intelligence is an end-to-end Business Intelligence project focused on analysing retail sales data to evaluate commercial performance, understand customer behaviour, assess product profitability and generate actionable business insights.
